@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/epg.xml"
+#EXTINF:-1 group-title="Rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", Rai 1 HD 
+http://157.143.44.195/play/a04k
+
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", RAI 2 HD 
+http://157.143.44.195/play/a04l
