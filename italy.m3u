@@ -2,44 +2,118 @@
 
 
 
-#EXTINF:-1 group-title="Rai" tvg-logo="https://i.ibb.co/v60Vj9Qm/rai1.png", Rai 1 HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1xtOaUHDIb2vfwgbwT2azzw22gyuCdKvY", Rai 1 
 http://157.143.44.195/play/a04k
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai 2 HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1iG4nZScH_iW3SY_bQM4rz94yc_b-nXSE", Rai 2 
 http://157.143.44.195/play/a04l
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/0RLHK3MC/rai3.png", Rai 3 HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=13jQMn8gYsRr5qSDlWTZ02Qb_l5Lq955D", Rai 3
 http://157.143.44.195/play/a040
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/Kc0CxHmb/rai4.png", Rai 4 HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1ooWfE6wWQORC6GYrgdpIdRrjvdLh-AmZ", Rai 4
 http://157.143.44.195/play/a0dh
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/kpcDz5p/rai5.png", Rai 5 HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1wjWyEMrpFvL1PsRGvFZ4yks7TwbzAQX1", Rai 5
 http://157.143.44.195/play/a076
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/KxffvfQ1/rai-gulp.png", Rai Gulp 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1toxRYTeY5uFq8QBstOcr7VAL9iUuf6sF", Rai Gulp
 http://157.143.44.195/play/a0dk
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/DDB6QKP3/Rai-Movie.png", Rai Movie 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=161BJ5A4CkT5ynddc6jjWc1RhCpaNF5Bm", Rai Movie
 http://157.143.44.195/play/a0dl
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/PZc5NNPJ/Rai-News-24.png", Rai News 24 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1fdDXEK3ax6mTGp8XCniwMdGnOIJdZIpu", Rai News 24
 http://157.143.44.195/play/a041
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Premium 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1aP_A0E_nco9wVUegxOXW2sgak4KABEWK", Rai Premium
 http://157.143.44.195/play/a0dj
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Scoula
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1X0v5PuGPcbXhGQHuidgZoFm9CDPdvLpk", Rai Scoula
 http://157.143.44.195/play/a077
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Sport+ HD 
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1MetGKr-BpcwKim6BIqSI705hht6iF3r1", Rai Sport
 http://157.143.44.195/play/a069
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Storia
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1Bp4TvsmPJUbSq8ktht5N8VakFPHlETDE", Rai Storia
 http://157.143.44.195/play/a0di
 
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Vaticana Europa
-http://157.143.44.195/play/a0cf
-
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Yoyo
+#EXTINF:-1 group-title="Rai" tvg-logo="https://drive.google.com/uc?export=download&id=1EuZYO4TMLDfXaJinZ2UVjchU2pxpf7HM", Rai Yoyo
 http://157.143.44.195/play/a0dq
+
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1nyVA4ARFiC-M2y9852PQy_6X3HlgTH3E", Canale 5 HD
+http://157.143.44.195/play/a093
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1gjH2CxwaA0lbdIDluCvvkwBXQJUb_x94",Italia 1 HD
+http://157.143.44.195/play/a091
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1BzlchhaK2NzURK6AXHqhLwEF7_Op5-Cq",La5
+http://157.143.44.195/play/a0d8
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=12-FzQEwXChedSxb6BJso-hv7Bw02vD0E",La 7 HD
+http://157.143.44.195/play/a094
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1AYgjkN0fWnvnBLKxaNsSa5K7dOUqimG5",La7d
+http://157.143.44.195/play/a0e9
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1OEqVzLLqJXHI-27U-5uhB2yZKdnJgvXP",20 Mediaset HD
+http://157.143.44.195/play/a0cx
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=13Md89oZaMyN6aVqiI1FU4P6gRuuMiXr4",Mediaset Extra
+http://157.143.44.195/play/a0d9
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=14KqZjWvHwPvuQ3sMp_U0efozKZ8-joFJ",Iris Italia
+http://157.143.44.195/play/a0e4
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=1_w5HqrbwZ0FIw7-tiDNYrk9RkwX5lN2v",Focus
+http://157.143.44.195/play/a0d5
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="https://drive.google.com/uc?export=download&id=15u2rIa2ucixdX_GypE7Qc5smbcPHyqaU",27 Twentyseven HD
+http://157.143.44.195/play/a0eb
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="",Cielo
+http://157.143.44.195/play/a0ct
+
+#EXTINF:-1 group-title="Mediaset" tvg-logo="",Cine34
+http://157.143.44.195/play/a0d4
+
+
+
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",Dmax Italia
+http://157.143.44.195/play/a0e0
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",Food Network
+http://157.143.44.195/play/a0ec
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",Giallo HD
+http://157.143.44.195/play/a0d6
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",HGTV HD ITA
+http://157.143.44.195/play/a0ej
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",Warner TV HD ITA
+http://157.143.44.195/play/a0f2
+
+#EXTINF:-1 group-title="Warner Bros. Discovery" tvg-logo="",VH1 ITA
+http://157.143.44.195/play/a0eh
+
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Antenna 2
+http://157.143.44.195/play/a0cy
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Antenna 3 HD
+http://157.143.44.195/play/a0d0
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Bergamo
+http://157.143.44.195/play/a0d3
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Italia Due
+http://157.143.44.195/play/a0dn
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Lombardia
+http://157.143.44.195/play/a0d7
+
+#EXTINF:-1 group-title="Locale" tvg-logo="",Super ITA
+http://157.143.44.195/play/a0ei
