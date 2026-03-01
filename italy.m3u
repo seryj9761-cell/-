@@ -1,7 +1,45 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/epg.xml"
+
+
+
 #EXTINF:-1 group-title="Rai" tvg-logo="https://i.ibb.co/v60Vj9Qm/rai1.png", Rai 1 HD 
 http://157.143.44.195/play/a04k
 
-
-#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", RAI 2 HD 
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai 2 HD 
 http://157.143.44.195/play/a04l
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/0RLHK3MC/rai3.png", Rai 3 HD 
+http://157.143.44.195/play/a040
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/Kc0CxHmb/rai4.png", Rai 4 HD 
+http://157.143.44.195/play/a0dh
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/kpcDz5p/rai5.png", Rai 5 HD 
+http://157.143.44.195/play/a076
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/KxffvfQ1/rai-gulp.png", Rai Gulp 
+http://157.143.44.195/play/a0dk
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/DDB6QKP3/Rai-Movie.png", Rai Movie 
+http://157.143.44.195/play/a0dl
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/PZc5NNPJ/Rai-News-24.png", Rai News 24 
+http://157.143.44.195/play/a041
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Premium 
+http://157.143.44.195/play/a0dj
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Scoula
+http://157.143.44.195/play/a077
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Sport+ HD 
+http://157.143.44.195/play/a069
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Storia
+http://157.143.44.195/play/a0di
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Vaticana Europa
+http://157.143.44.195/play/a0cf
+
+#EXTINF:-1 ,group-title="Rai" tvg-logo="https://i.ibb.co/WvS2SCDg/rai-2.png", Rai Yoyo
+http://157.143.44.195/play/a0dq
